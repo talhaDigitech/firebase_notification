@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664625352383",
+    "project_id": "testap-65c22",
+    "storage_bucket": "testap-65c22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664625352383:android:1fcd0b73711ec525dd800a",
+        "android_client_info": {
+          "package_name": "com.example.testap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pZ9nffxDgSnQ2e8CKx0Rj7aEmsHN7Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
